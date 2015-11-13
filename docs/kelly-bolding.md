@@ -15,3 +15,7 @@ Carrots
 #### Hobby:
 
 Playing old-time country music
+
+#### Favorite Color:
+
+Blue
