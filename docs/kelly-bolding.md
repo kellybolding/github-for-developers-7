@@ -19,3 +19,7 @@ Playing old-time country music
 #### Favorite Color:
 
 Blue
+
+#### Current City:
+
+Lambertville
